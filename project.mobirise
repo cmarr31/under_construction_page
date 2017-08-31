@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Under Construction Site",
-    "currentPage": "index.html",
+    "currentPage": "sitefueltrade.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 20,
     "versionPublish": "4.2.3",
@@ -36,11 +36,11 @@
     "noImageResize": ""
   },
   "pages": {
-    "index.html": {
+    "sitefueltrade.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Site Fuel Trade International (Coming soon...)",
+        "meta_descr": "Under construction currently...",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
